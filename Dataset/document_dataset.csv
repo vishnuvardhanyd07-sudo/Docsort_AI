@@ -1,0 +1,61 @@
+text,category
+This is a university semester examination hall ticket,Education
+Student marksheet and academic grade report,Education
+College admission application and enrollment form,Education
+University degree certificate and transcript,Education
+Class timetable and subject syllabus,Education
+Assignment submission and project report,Education
+Student attendance and examination results,Education
+Tuition fee receipt from college,Education
+Scholarship application for university students,Education
+Course completion certificate and academic record,Education
+Bank account statement and transaction details,Finance
+Monthly salary slip and payment details,Finance
+Income tax return and tax payment receipt,Finance
+Loan application and repayment schedule,Finance
+Credit card bill and outstanding balance,Finance
+Invoice for business purchase and payment,Finance
+Bank deposit and withdrawal statement,Finance
+Financial audit and annual accounts report,Finance
+Insurance premium payment receipt,Finance
+Monthly electricity payment transaction,Finance
+Resume and professional work experience,Career
+Job application and candidate information,Career
+Internship offer letter and joining details,Career
+Employment appointment letter,Career
+Professional experience certificate,Career
+Job interview schedule and invitation,Career
+Employee identification and company details,Career
+LinkedIn professional profile and skills,Career
+Training completion and career certificate,Career
+Job recruitment and selection letter,Career
+Hospital medical report and patient details,Medical
+Doctor prescription and medicine dosage,Medical
+Blood test laboratory report,Medical
+Medical examination and health checkup,Medical
+Hospital discharge summary,Medical
+Patient diagnosis and treatment details,Medical
+Pharmacy medicine bill,Medical
+Radiology scan and medical imaging report,Medical
+Vaccination certificate and health record,Medical
+Clinical laboratory test results,Medical
+Electricity bill and consumer number,Utility
+Water supply bill and payment details,Utility
+Internet broadband monthly bill,Utility
+Mobile phone recharge and billing statement,Utility
+Gas connection bill and payment receipt,Utility
+Telephone service invoice,Utility
+Property tax payment receipt,Utility
+Internet service provider account details,Utility
+Household utility payment receipt,Utility
+Cable television subscription bill,Utility
+Personal invitation for a birthday celebration,Others
+Travel itinerary and holiday schedule,Others
+Event participation invitation,Others
+Personal letter and general communication,Others
+Restaurant food menu and price list,Others
+Meeting agenda and discussion notes,Others
+Product user manual and instructions,Others
+General announcement and information notice,Others
+Personal shopping list,Others
+Event registration confirmation,Others
